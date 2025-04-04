@@ -1,0 +1,90 @@
+[
+    {
+        "timestamp": "27 03 2025 17 50 02",
+        "hash_prec": "GEN-000",
+        "transazione": "creazione della blockchain",
+        "nonce": 71773,
+        "difficolta": "00000",
+        "hash": "00000228dcda6cb83b40433e4a5a9c6a64150a0e2916ee00654f605103b997b9"
+    },
+    {
+        "timestamp": "27 03 2025 17 50 02",
+        "hash_prec": "00000228dcda6cb83b40433e4a5a9c6a64150a0e2916ee00654f605103b997b9",
+        "transazione": "blocco1",
+        "nonce": 151378,
+        "difficolta": "00000",
+        "hash": "000002ea610823b942e8f6949da02876ddb051d1f6d2eeeb2b8cb06ebfe39d8a"
+    },
+    {
+        "timestamp": "27 03 2025 17 50 33",
+        "hash_prec": "000002ea610823b942e8f6949da02876ddb051d1f6d2eeeb2b8cb06ebfe39d8a",
+        "transazione": "blocco2",
+        "nonce": 1746735,
+        "difficolta": "00000",
+        "hash": "0000008716694434a19de517932191616d08a64301345e3aa3b980d6152f95d3"
+    },
+    {
+        "timestamp": "03 04 2025 14 25 26",
+        "hash_prec": "0000008716694434a19de517932191616d08a64301345e3aa3b980d6152f95d3",
+        "transazione": "transazione3aprile",
+        "nonce": 54218,
+        "difficolta": "00000",
+        "hash": "00000dacffb1732774caad7dc5500ee2b3bce9d2b59c04da3b1e4ab856e9f18e"
+    },
+    {
+        "timestamp": "03 04 2025 14 34 27",
+        "hash_prec": "00000dacffb1732774caad7dc5500ee2b3bce9d2b59c04da3b1e4ab856e9f18e",
+        "transazione": "TOMPEC",
+        "nonce": 990966,
+        "difficolta": 5,
+        "hash": "00000c0875fc06b1a4b8713660a5d7897a214f5424f75a772a66c802b754bb06"
+    },
+    {
+        "timestamp": "03 04 2025 14 37 57",
+        "hash_prec": "00000c0875fc06b1a4b8713660a5d7897a214f5424f75a772a66c802b754bb06",
+        "transazione": "petrella scrive un romanzo nella blockchain",
+        "nonce": 216847,
+        "difficolta": 5,
+        "hash": "000004323e56f0476ba24df259aec86c74058e6ebd3e1f125a2e805f3693cf20"
+    },
+    {
+        "timestamp": "03-04-2025 15:11:04",
+        "hash_prec": "000004323e56f0476ba24df259aec86c74058e6ebd3e1f125a2e805f3693cf20",
+        "transazione": "EMIN SMONTA LE RUOTE ALLA MACCHINA DI THOMAS MACORIG E LE VENDE A VEZZOSI",
+        "nonce": 1085650,
+        "difficolta": 5,
+        "hash": "000005fdb7a82fc2cdf792c9ac6d3fc1d6e52510a6cd60b74a73f48622b4b8df"
+    },
+    {
+        "timestamp": "03-04-2025 15:14:09",
+        "hash_prec": "000005fdb7a82fc2cdf792c9ac6d3fc1d6e52510a6cd60b74a73f48622b4b8df",
+        "transazione": "jack guadagna mille euro criptando l'iso 27002 con un ransomware",
+        "nonce": 759550,
+        "difficolta": 5,
+        "hash": "00000af80370aa76364a12cbd2a274a28645641f66b6b6ed58ac2aaefc7482e4"
+    },
+    {
+        "timestamp": "03-04-2025 15:18:25",
+        "hash_prec": "00000af80370aa76364a12cbd2a274a28645641f66b6b6ed58ac2aaefc7482e4",
+        "transazione": "",
+        "nonce": 2437531,
+        "difficolta": 5,
+        "hash": "00000507e276aa26d0b92bdd6bd74a4044428d28179d2b388417e969dff5895d"
+    },
+    {
+        "timestamp": "03-04-2025 15:19:21",
+        "hash_prec": "00000507e276aa26d0b92bdd6bd74a4044428d28179d2b388417e969dff5895d",
+        "transazione": "transazione_nuova",
+        "nonce": 39502,
+        "difficolta": 5,
+        "hash": "000004d6e4b88640cafbe9e561d2448ff56e6f8cc13f2374d483a4d07c7acdd4"
+    },
+    {
+        "timestamp": "03-04-2025 15:19:27",
+        "hash_prec": "000004d6e4b88640cafbe9e561d2448ff56e6f8cc13f2374d483a4d07c7acdd4",
+        "transazione": "transazione_nuova",
+        "nonce": 91483,
+        "difficolta": 5,
+        "hash": "0000045ee0848f801d3b0b1dd2385a28fa67a5c20ce13dbff034279c80bf4d8f"
+    }
+]

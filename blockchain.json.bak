@@ -1,0 +1,38 @@
+[
+    {
+        "timestamp": "27 03 2025 16 58 39",
+        "hash_prec": "GEN-000",
+        "transazione": "creazione della blockchain",
+        "hash": "4fafa1e6b2af5921f36251b0e26d50b708b3fce073b5028b87afc765cdf07fd9"
+    },
+    {
+        "timestamp": "27 03 2025 16 58 39",
+        "hash_prec": "4fafa1e6b2af5921f36251b0e26d50b708b3fce073b5028b87afc765cdf07fd9",
+        "transazione": "blocco1",
+        "hash": "39b82bcc63d9c594f104032b49971c73ff25218b16fda8e677a1a5e809f55a13"
+    },
+    {
+        "timestamp": "27 03 2025 16 58 57",
+        "hash_prec": "39b82bcc63d9c594f104032b49971c73ff25218b16fda8e677a1a5e809f55a13",
+        "transazione": "blocco2",
+        "hash": "c882d7d8f0559f95ce78deda05779a61c070308733839cf8c8e06bf1883d0921"
+    },
+    {
+        "timestamp": "27 03 2025 17 01 05",
+        "hash_prec": "c882d7d8f0559f95ce78deda05779a61c070308733839cf8c8e06bf1883d0921",
+        "transazione": "blocco3",
+        "hash": "8b70166af7e46a8f3bcf03f408199c3dc954f52027105722c942252c2a5b1d0c"
+    },
+    {
+        "timestamp": "27 03 2025 17 01 16",
+        "hash_prec": "8b70166af7e46a8f3bcf03f408199c3dc954f52027105722c942252c2a5b1d0c",
+        "transazione": "blocco4",
+        "hash": "f85355c68e606b4fe3ac3cd6a96ece06c2ff4840ee2ee111f0448f7d3ff39e09"
+    },
+    {
+        "timestamp": "27 03 2025 17 02 56",
+        "hash_prec": "f85355c68e606b4fe3ac3cd6a96ece06c2ff4840ee2ee111f0448f7d3ff39e09",
+        "transazione": "blocco5",
+        "hash": "4e06fffab5fafaddde8c426baa015e3b7ee4c2925ce2ffe7feed17c955d3e9ce"
+    }
+]

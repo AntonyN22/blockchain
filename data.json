@@ -1,0 +1,46 @@
+[
+    {
+        "user": "testuser",
+        "password": "b133a0c0e9bee3be20163d2ad31d6248db292aa6dcb1ee087a2aa50e0fc75ae2"
+    },
+    {
+        "user": "user2",
+        "password": "b221d9dbb083a7f33428d7c2a3c3198ae925614d70210e28716ccaa7cd4ddb79"
+    },
+    {
+        "user": "pino",
+        "password": "d385131c23073ff60b828c541a5700a5366551bdf4487006d166b7908844e389"
+    },
+    {
+        "user": "ciao",
+        "password": "b133a0c0e9bee3be20163d2ad31d6248db292aa6dcb1ee087a2aa50e0fc75ae2"
+    },
+    {
+        "user": "tizio",
+        "password": "3dc1f55a59b3f461f6f4c96e59324036c479e5f619a5d146e11de2ec8f19afb2"
+    },
+    {
+        "user": "bro",
+        "password": "ff3727276784ada3f6d609a19ed541d9e888759559d81a4045e3c790aa40f276"
+    },
+    {
+        "user": "bros",
+        "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+        "user": "ciaoo",
+        "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+        "user": "pippo",
+        "password": "2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6"
+    },
+    {
+        "user": "cioa",
+        "password": "9834876dcfb05cb167a5c24953eba58c4ac89b1adf57f28f2f9d09af107ee8f0"
+    },
+    {
+        "user": "cioas",
+        "password": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+]
